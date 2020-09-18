@@ -1,5 +1,6 @@
 # Heart Disease Prediction using Machine Learning
-This project looks into using various Python-based machine learning data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart diesease based on their medical attributes
+This project looks into using various Python-based machine learning data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart diesease based on their medical attributes. The project can be viewed [here](https://github.com/uzair-suria/heart-disease-sklearn-model/blob/master/end-to-end-heart-disease-classification.ipynb)
+
 
 ## Problem Definition
 > Given clinical parameters about a patient, can we predict whether or not they have a heart disease?
